@@ -6,4 +6,10 @@ body {
   padding: 0;
   margin: 0;
   background-color: rgba(34, 170, 170, 0.6666666667);
+}
+
+.header {
+  width: 100%;
+  padding: 2rem;
+  background-color: rgba(187, 187, 187, 0.7333333333);
 }/*# sourceMappingURL=main.css.map */
